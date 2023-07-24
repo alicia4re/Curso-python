@@ -2,4 +2,3 @@ Caso práctico final - Curso Python Full Stack
 
 Realizado por Alicia Rebato Ossona el 24/07/2023
 
-alicia4rebato@gmail.com
